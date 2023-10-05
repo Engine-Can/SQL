@@ -1,4 +1,4 @@
---Covid 19 Data Exploration 
+--Covid Data Exploration 
 
 --Skills used: Joins, CTE's, Windows Functions, Aggregate Functions, Converting Data Types
 
